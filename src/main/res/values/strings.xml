@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CLUB LIGA 1 INDONESIA</string>
+    <string name="detail">detail</string>
+    <string name="share">share</string>
+    <string name="detail_club">RINCIAN CLUB</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="julukan">Julukan</string>
+    <string name="berdiri">Berdiri</string>
+    <string name="stadion">Stadion</string>
+    <string name="pelatih">Pelatih</string>
+    <string name="suporter">Suporter</string>
+    <string name="logo">logo</string>
+</resources>
